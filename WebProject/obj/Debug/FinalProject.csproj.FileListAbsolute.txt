@@ -52,3 +52,4 @@ C:\Saji\visual studio\WebProject\WebProject\bin\Microsoft.Owin.Security.Twitter.
 C:\Saji\visual studio\WebProject\WebProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Saji\visual studio\WebProject\WebProject\obj\Debug\WebProject.dll
 C:\Saji\visual studio\WebProject\WebProject\obj\Debug\WebProject.pdb
+C:\Saji\visual studio\WebProject\WebProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
